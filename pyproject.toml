@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "commons_example"
-version = "0.1.0"
+version = "0.2.0"
 description = "Exemplo de dados comuns"
 authors = ["André Rocha <andre.rocha@enacom.com.br>"]
 
